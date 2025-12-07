@@ -38,7 +38,7 @@ Then run the main() method of the main file.
 
 ⚠️ Early project = bugs will be there. Laugh at them, fix them, learn from them.
 
-### 📝 Features (so far)
+## 📝 Features (so far)
 - Basic game window setup
 
 - Basic rendering
@@ -51,7 +51,7 @@ Then run the main() method of the main file.
 
 This is just the starting point — meant for learning and experimenting.
 
-### Future Improvements / TODOs
+## Future Improvements / TODOs
 - Add sprite rendering (images instead of default shapes)
 
 - Add animations
@@ -68,7 +68,7 @@ This is just the starting point — meant for learning and experimenting.
 
 - Cleanup + refactoring
 
-### Why This Exists
+## Why This Exists
 I wanted to learn how games work under the hood.
 No Unity. No Godot. No fancy engines. Just pure Java and pain.
 This project is a sandbox to break things, fix them, learn, and build something cooler over time.
